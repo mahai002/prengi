@@ -1,0 +1,1 @@
+"use strict";$(".nav__burger").click(function(){$(this).toggleClass("active"),$(".nav__menu").toggleClass("active"),$("body").toggleClass("lock")}),$(".carousel").slick({});
